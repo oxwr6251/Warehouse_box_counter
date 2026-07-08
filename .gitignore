@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+
+# YOLO / ML artifacts (large or regenerated)
+*.pt
+runs/
+*.cache
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
